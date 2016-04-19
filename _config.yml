@@ -10,13 +10,14 @@ safe: false
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-title : 此心光明，亦复何言
+title : "此心光明，亦复何言"
 tagline: Site Tagline
 author :
   name : 曲豪楚
   email : quhaochu@foxmail.com
   github : kuenne
-  wechat : kuenne
+  twitter : kuenne
+  feedburner : feedname
 
 # The production_url is only used when full-domain names are needed
 # such as sitemap.txt 
@@ -26,7 +27,7 @@ author :
 # Else if you are pushing to username.github.io, replace with your username.
 # Finally if you are pushing to a GitHub project page, include the project name at the end.
 #
-production_url : http://kuenne.github.io/blog
+production_url : http://enml.github.io/blog
 
 # All Jekyll-Bootstrap specific configurations are namespaced into this hash
 #
@@ -65,7 +66,7 @@ JB :
   #   http://s3.amazonaws.com/yoursite/themes/watermelon
   #   /assets
   #
-  ASSET_PATH : [BASE_PATH]/assets/themes/twitter
+  ASSET_PATH : False
 
   # These paths are to the main pages Jekyll-Bootstrap ships with.
   # Some JB helpers refer to these paths; change them here if needed.
