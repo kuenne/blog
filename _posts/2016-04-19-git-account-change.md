@@ -29,7 +29,7 @@ $ ssh-keygen -t rsa -C "youremail@gmail.com"
 注意不要一路回车，要给这个文件起一个名字， 比如叫 id_rsa_github, 所以相应的也会生成一个 id_rsa_github.pub 文件。
 
 目录结构如下：
-<img src="/images/git-account-change.png" alt="结构图" style="max-width:100%;"/>
+<img src="/image/git-account-change.png" alt="结构图" style="max-width:100%;"/>
 
 **3.修改配置文件：**
 在 ~/.ssh 目录下新建一个config文件
