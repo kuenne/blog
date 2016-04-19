@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: 多平台git账号切换
 category : git
 tagline: "Supporting tagline"
