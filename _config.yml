@@ -10,13 +10,13 @@ safe: false
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-title : "此心光明，亦复何言"
+title : 寂寞先生
 tagline: Site Tagline
 author :
   name : 曲豪楚
   email : quhaochu@foxmail.com
-  github : kuenne
-  twitter : kuenne
+  github : username
+  twitter : username
   feedburner : feedname
 
 # The production_url is only used when full-domain names are needed
@@ -102,7 +102,7 @@ JB :
   analytics :
     provider : google 
     google : 
-        tracking_id : ''
+        tracking_id : 'UA-50637568-1'
     getclicky :
       site_id : 
     mixpanel :

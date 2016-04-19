@@ -1,7 +1,7 @@
 ---
 layout: page
-title: 此心光明，亦复何言
-tagline: 丈夫拥书万卷,何假南面百城
+title: 寂寞先生
+tagline: 这，是一个寂寞的世界……
 ---
 {% include JB/setup %}
 
