@@ -1,7 +1,7 @@
 ---
 layout: page
-title: 此心光明，亦复何言
-tagline: hello world……
+title: honey kay
+tagline: hello baby……
 ---
 {% include JB/setup %}
 
