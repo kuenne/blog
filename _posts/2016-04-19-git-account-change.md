@@ -6,7 +6,7 @@ tagline: "Supporting tagline"
 tags : [git ssh-key]
 ---
 {% include JB/setup %}
-# Template
+# bitbucket和github互换
 ---
 
 **1.生成并添加第一个ssh key：**
