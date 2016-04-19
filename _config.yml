@@ -10,7 +10,7 @@ safe: false
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-title : 寂寞先生
+title : "此心光明，亦复何言"
 tagline: Site Tagline
 author :
   name : 曲豪楚
@@ -102,7 +102,7 @@ JB :
   analytics :
     provider : google 
     google : 
-        tracking_id : 'UA-50637568-1'
+        tracking_id : ''
     getclicky :
       site_id : 
     mixpanel :
