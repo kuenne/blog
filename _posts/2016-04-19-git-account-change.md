@@ -6,7 +6,7 @@ tagline: "Supporting tagline"
 tags : [git ssh-key]
 ---
 {% include JB/setup %}
-# bitbucket和github互换
+# 多平台git账号切换
 ---
 
 **1.生成并添加第一个ssh key：**
