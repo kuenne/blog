@@ -3,7 +3,7 @@ layout: post
 title: 多平台git账号切换
 category : git
 tagline: "Supporting tagline"
-tags : [git ssh-key]
+tags : [git,ssh-key]
 ---
 {% include JB/setup %}
 # 多平台git账号切换
