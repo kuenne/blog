@@ -15,8 +15,8 @@ tagline: Site Tagline
 author :
   name : 曲豪楚
   email : quhaochu@foxmail.com
-  github : username
-  twitter : username
+  github : kuenne
+  twitter : kuenne
   feedburner : feedname
 
 # The production_url is only used when full-domain names are needed
