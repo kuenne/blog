@@ -18,6 +18,7 @@ php版本从5.2升级到5.6
 ```
 mv /usr/local/php  /usr/local/php5.2
 ```
+<!--break-->
 
 **2.下载最新版本php5.6.20 并且解压：**
 
