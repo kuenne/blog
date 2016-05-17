@@ -39,6 +39,7 @@ $ chown -R git:git sample.git
 ```
 
 **4.禁用shell登录**
+
 出于安全考虑，第二步创建的git用户不允许登录shell，这可以通过编辑/etc/passwd文件完成。找到类似下面的一行：
 
 ```
