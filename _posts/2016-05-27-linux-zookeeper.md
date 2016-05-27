@@ -36,7 +36,7 @@ maxClientCnxns：限制连接到 ZooKeeper 的客户端的数量
 
 **三.设置开机启动**
 
-1.编写运行脚本：
+编写运行脚本：
 
 ```
 cd /etc/init.d/
