@@ -72,7 +72,7 @@ vi /etc/profile
 ZOO_LOG_DIR="/home/soft/zookeeper-3.4.8/log"
 export ZOO_LOG_DIR
 
-souce /etc/profile
+source /etc/profile
 ```
 
 **五.启动服务：**
