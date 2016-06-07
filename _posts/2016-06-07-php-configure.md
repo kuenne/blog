@@ -1,18 +1,16 @@
 ---
 layout: post
-title: configure: error: Don’t know how to define struct flock on this system, set –enable-opcache=no
-category : atom
+title: php configure: error: Don’t know how to define struct flock on this system, set –enable-opcache=no
+category : php
 tagline: "Supporting tagline"
-tags : [atom]
+tags : [php]
 ---
 {% include JB/setup %}
 # configure: error: Don’t know how to define struct flock on this system, set –enable-opcache=no
 ---
 
 ```
-
 vim /etc/ld.so.conf.d/local.conf
-
 ```
 
 添加:
