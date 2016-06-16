@@ -1,6 +1,6 @@
 ---
 layout: post
-title: php configure: error: Don’t know how to define struct flock on this system, set –enable-opcache=no
+title: php编译安装报错: error: Don’t know how to define struct flock on this system, set –enable-opcache=no 的解决方法
 category : php
 tagline: "Supporting tagline"
 tags : [php]
