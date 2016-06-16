@@ -6,7 +6,7 @@ tagline: "Supporting tagline"
 tags : [php]
 ---
 {% include JB/setup %}
-# configure: error: Don’t know how to define struct flock on this system, set –enable-opcache=no
+# php编译安装报错: error: Don’t know how to define struct flock on this system, set –enable-opcache=no 的解决方法
 ---
 
 ```
